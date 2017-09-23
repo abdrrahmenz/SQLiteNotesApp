@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

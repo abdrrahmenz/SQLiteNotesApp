@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/menu/menu_form.xml",
+        "source": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/src/main/res/menu/menu_form.xml"
+    }
+]

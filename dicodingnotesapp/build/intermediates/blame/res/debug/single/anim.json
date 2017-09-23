@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/adul/.android/build-cache/2e4854f61df34d2a18f7e0c8d35cc9b0e7bf0f7f/output/res/anim/abc_popup_enter.xml"
+    }
+]

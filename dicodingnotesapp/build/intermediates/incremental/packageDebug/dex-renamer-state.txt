@@ -1,0 +1,7 @@
+#Sat Sep 23 08:12:14 WIB 2017
+base.0=/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2f651db4f3c272fed69fcab513c2e7032f055acf
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_15de35b4954e4ccedcb424ba0a3fda220f32678f/classes.dex
+base.1=/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_15de35b4954e4ccedcb424ba0a3fda220f32678f
+file.0=/home/adul/AndroidStudioProjects/SQLiteNotesApp/dicodingnotesapp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2f651db4f3c272fed69fcab513c2e7032f055acf/classes.dex
